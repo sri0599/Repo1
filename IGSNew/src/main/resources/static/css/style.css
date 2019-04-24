@@ -1,0 +1,8 @@
+body {
+  padding: 10px;
+}
+
+/* Apply & remove to fix dynamic content scroll issues on iOS 9.0 */
+.modal-scrollfix.modal-scrollfix {
+    overflow-y: hidden;
+}
